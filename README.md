@@ -4,9 +4,9 @@ Motif Discovery in Continuous Glucose Monitoring Using Matrix Profiling and Clus
 Alper Bulut 2045622
 
 Contents:
-appendix folder = visuals & evaluation scores from iterations of pipeline
-OhioT1DM-full-access = data-set
-motif_discovery_ code = experiment script
+
+OhioT1DM-full-access = data-set   
+motif_discovery_ code = experiment script  
 
 How to run experiment:
 1) Specify path of training folder as data_folder
